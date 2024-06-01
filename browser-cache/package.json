@@ -1,0 +1,31 @@
+{
+    "name": "@sohel902833/browser-cache",
+    "version": "1.0.2",
+    "description": "A browser cache manager based on web cached storage",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "scripts": {
+        "build": "tsc",
+        "prepare": "npm run build"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/sohel902833/browser-cache.git"
+    },
+    "keywords": [
+        "browser-cache"
+    ],
+    "author": "Sohel",
+    "license": "Apache-2.0",
+    "bugs": {
+        "url": "https://github.com/sohel902833/browser-cache/issues"
+    },
+    "homepage": "https://github.com/sohel902833/browser-cache#readme",
+    "devDependencies": {
+        "typescript": "^5.4.5"
+    },
+    "dependencies": {},
+    "files": [
+        "dist/**/*"
+    ]
+}
