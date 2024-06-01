@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "target": "ES5",
+        "module": "CommonJS",
+        "declaration": true, //for get the types,
+        "outDir": "./dist",
+        "strict": true
+    },
+    "include": ["src", "index.ts"],
+    "exclude": ["node_modules", "**/__test__/*"]
+}
