@@ -1,6 +1,6 @@
 {
     "name": "cache-wise",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "A browser cache manager based on web cached storage",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
@@ -13,7 +13,12 @@
         "url": "git+https://github.com/sohel902833/cache-wise.git"
     },
     "keywords": [
-        "browser-cache"
+        "browser-cache",
+        "cache-wise",
+        "cache",
+        "CacheStorage",
+        "Cache Storage",
+        "cache.js"
     ],
     "author": "Sohel",
     "license": "Apache-2.0",
